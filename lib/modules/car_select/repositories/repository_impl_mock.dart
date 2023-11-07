@@ -1,5 +1,3 @@
-import 'package:memorized/modules/car_select/models/car_group_state.dart';
-
 import '../../../core/exception.dart';
 import '../../../core/http/http_util.dart';
 import '../../../core/result.dart';

@@ -1,6 +1,6 @@
 # memorized
 
-A new Flutter project.
+A Flutter project with riverpod + go_router
 
 ## Getting Started
 

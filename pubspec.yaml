@@ -41,15 +41,12 @@ dependencies:
     path: plugins/design_size
   memo_ui:
     path: plugins/memo_ui
-  universal_html: ^2.2.4
   dio: ^5.3.2
   freezed_annotation: ^2.4.1
   path_provider: ^2.1.1
   sliver_tools: ^0.2.12
-  extended_image: ^8.1.0
   crypto: ^3.0.3
   path: ^1.8.3
-  book_reader: ^0.1.19
 
 dev_dependencies:
   flutter_test:
